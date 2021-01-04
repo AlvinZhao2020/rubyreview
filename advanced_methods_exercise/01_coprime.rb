@@ -12,6 +12,7 @@ def coprime?(n1,n2)
     return true
 end
 
+# .none? .all? .any? 
 
 
 p coprime?(25, 12)    # => true
